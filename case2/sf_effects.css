@@ -6,8 +6,8 @@
    Case Problem 2
    
    Save your Fork Graphic Design Styles
-   Author: 
-   Date:   
+   Author: Taylor Hamilton
+   Date: 10/8/19  
 
    Filename: sf_effects.css
 
@@ -15,7 +15,12 @@
 
 /* Body Header Styles */
 
-
+body{
+   filter: drop-shadow(10px 0px 50px rgb(51, 51, 51)),
+            drop-shadow(-10px 0px 50px rgb(51, 51, 51));
+   -webkit-filter: drop-shadow(10px 0px 50px rgb(51, 51, 51)),
+   drop-shadow(-10px 0px 50px rgb(51, 51, 51))
+}
 
 /* Navigation Tabs List Styles */
 

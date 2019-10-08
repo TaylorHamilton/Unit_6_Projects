@@ -48,8 +48,8 @@ section#left h1{
    text-shadow: black 0px 0px 5px;
 }
 #mportrait{
-   -webkit-filter: drop-shadow(-15px -15px 5px rgba(51, 51, 51, 0.9)) grayscale(0.7) opacity(0.6);
-   filter: drop-shadow(-15px -15px 5px rgba(51, 51, 51, 0.9)) grayscale(0.7) opacity(0.6);
+   -webkit-filter: drop-shadow(-15px 0px 5px rgba(51, 51, 51, 0.9)) grayscale(0.7) opacity(0.6);
+   filter: drop-shadow(-15px 0px 5px rgba(51, 51, 51, 0.9)) grayscale(0.7) opacity(0.6);
    transform: rotateY(180deg);
 }
 
