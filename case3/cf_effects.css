@@ -16,8 +16,7 @@
 /* HTML Styles */
 
 html{
-   background: url(cf_back1.png) 100%/cover;
-   background-position: fixed;
+   background: url(cf_back1.png) 100%/cover fixed no-repeat;
 }
 
 /* Body Styles */
